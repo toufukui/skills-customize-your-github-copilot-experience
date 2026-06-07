@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "json-data-manager",
+      "title": "JSON Data Manager",
+      "description": "Manage JSON data in Python using file I/O, dictionaries, and persistence.",
+      "path": "assignments/json-data-manager",
+      "dueDate": "2026-06-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "users.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }
